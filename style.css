@@ -8,9 +8,11 @@
 
 html, body {
   height: 100%;
+  margin: 0;
+  padding: 0;
   overflow: hidden;
   -webkit-overflow-scrolling: touch;
-  background: #000;
+  background: transparent; /* jangan pakai hitam solid */
   color: #fff;
 }
 
