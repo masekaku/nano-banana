@@ -23,7 +23,7 @@ html, body {
   height: 100%;
   object-fit: cover;
   object-position: center center;
-  z-index: -10; /* selalu di belakang */
+  z-index: -3; /* selalu di belakang */
   min-width: 100%;
   min-height: 100%;
 }
